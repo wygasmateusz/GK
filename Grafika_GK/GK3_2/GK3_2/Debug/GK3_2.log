@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  GK3_2.cpp
+c:\users\vega\desktop\grafika-master\grafika-master\gk3_2\gk3_2\gk3_2.cpp(467): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\vega\desktop\grafika-master\grafika-master\gk3_2\gk3_2\gk3_2.cpp(472): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\vega\desktop\grafika-master\grafika-master\gk3_2\gk3_2\gk3_2.cpp(524): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\vega\desktop\grafika-master\grafika-master\gk3_2\gk3_2\gk3_2.cpp(526): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\vega\desktop\grafika-master\grafika-master\gk3_2\gk3_2\gk3_2.cpp(528): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\vega\desktop\grafika-master\grafika-master\gk3_2\gk3_2\gk3_2.cpp(530): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  GK3_2.vcxproj -> C:\Users\Vega\Desktop\Grafika-master\Grafika-master\GK3_2\Debug\GK3_2.exe

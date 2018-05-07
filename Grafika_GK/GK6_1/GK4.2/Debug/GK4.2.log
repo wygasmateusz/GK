@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  GK4.2.cpp
+c:\users\vega\desktop\grafika-master\grafika-master\gk6_1\gk4.2\gk4.2.cpp(106): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\vega\desktop\grafika-master\grafika-master\gk6_1\gk4.2\gk4.2.cpp(116): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\vega\desktop\grafika-master\grafika-master\gk6_1\gk4.2\gk4.2.cpp(207): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\vega\desktop\grafika-master\grafika-master\gk6_1\gk4.2\gk4.2.cpp(212): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\vega\desktop\grafika-master\grafika-master\gk6_1\gk4.2\gk4.2.cpp(273): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\vega\desktop\grafika-master\grafika-master\gk6_1\gk4.2\gk4.2.cpp(275): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  GK4.2.vcxproj -> C:\Users\Vega\Desktop\Grafika-master\Grafika-master\GK6_1\Debug\GK4.2.exe

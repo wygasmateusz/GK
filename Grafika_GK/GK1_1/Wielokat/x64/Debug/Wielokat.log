@@ -1,0 +1,3 @@
+﻿  Wielokat.cpp
+c:\users\vega\downloads\grafika-master\grafika-master\gk1_1\wielokat\wielokat.cpp(125): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  Wielokat.vcxproj -> C:\Users\Vega\Downloads\Grafika-master\Grafika-master\GK1_1\x64\Debug\Wielokat.exe
